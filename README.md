@@ -84,7 +84,7 @@ Semir Kurt E 1995
 
 MENU
 Seçim : A
-Arama (like %) : Öz
+Arama (like %) : Be
 2 - Bengisu K 1996
 
 MENU
